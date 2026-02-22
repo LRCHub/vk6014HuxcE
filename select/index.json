@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Empire State Of Mind (feat. Alicia Keys)",
+  "base_artist": "JAŸ-Z",
+  "createdAt": "2026-02-22T10:13:07.206380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat. Alicia Keys)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/01_Empire_State_of_Mind_(feat._Alicia_Keys)_Various.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/02_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/03_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat. Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/04_Empire_State_of_Mind_(feat._Alicia_Keys)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat. Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/05_Empire_State_of_Mind_(feat._Alicia_Keys)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/06_Empire_State_Of_Mind_(feat._Alicia_Keys)_Song.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/07_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat. Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/08_Empire_State_of_Mind_(feat._Alicia_Keys)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/09_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/10_Empire_State_of_Mind_(feat_Alicia_Keys)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (Feat. Alicia Keys)",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/11_Empire_State_Of_Mind_(Feat._Alicia_Keys)_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Empire State of Mind (feat. Alicia Keys)",
+      "artist": "Jay‐Z",
+      "has_synced": true,
+      "path": "select/12_Empire_State_of_Mind_(feat._Alicia_Keys)_Jay‐Z.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/13_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat. Alicia Keys)",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/14_Empire_State_Of_Mind_(feat._Alicia_Keys)_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Empire State Of Mind (feat",
+      "artist": "JAY-Z",
+      "has_synced": true,
+      "path": "select/15_Empire_State_Of_Mind_(feat_JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Empire State of Mind feat. Lange Frans",
+      "artist": "Grace, Glennis",
+      "has_synced": true,
+      "path": "select/16_Empire_State_of_Mind_feat._Lange_Frans_Grace,_Glennis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Empire State of mind",
+      "artist": "Jay-Z",
+      "has_synced": false,
+      "path": "select/pl_01_Empire_State_of_mind_Jay-Z.txt"
+    }
+  ]
+}
